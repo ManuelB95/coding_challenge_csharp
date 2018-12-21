@@ -1,0 +1,11 @@
+D:\Dokumente\Programming\coding_challenges\C#\coding_challenges_csharp\challenge01\bin\Debug\netcoreapp2.2\challenge01.deps.json
+D:\Dokumente\Programming\coding_challenges\C#\coding_challenges_csharp\challenge01\bin\Debug\netcoreapp2.2\challenge01.runtimeconfig.json
+D:\Dokumente\Programming\coding_challenges\C#\coding_challenges_csharp\challenge01\bin\Debug\netcoreapp2.2\challenge01.runtimeconfig.dev.json
+D:\Dokumente\Programming\coding_challenges\C#\coding_challenges_csharp\challenge01\bin\Debug\netcoreapp2.2\challenge01.dll
+D:\Dokumente\Programming\coding_challenges\C#\coding_challenges_csharp\challenge01\bin\Debug\netcoreapp2.2\challenge01.pdb
+D:\Dokumente\Programming\coding_challenges\C#\coding_challenges_csharp\challenge01\obj\Debug\netcoreapp2.2\challenge01.csprojAssemblyReference.cache
+D:\Dokumente\Programming\coding_challenges\C#\coding_challenges_csharp\challenge01\obj\Debug\netcoreapp2.2\challenge01.csproj.CoreCompileInputs.cache
+D:\Dokumente\Programming\coding_challenges\C#\coding_challenges_csharp\challenge01\obj\Debug\netcoreapp2.2\challenge01.AssemblyInfoInputs.cache
+D:\Dokumente\Programming\coding_challenges\C#\coding_challenges_csharp\challenge01\obj\Debug\netcoreapp2.2\challenge01.AssemblyInfo.cs
+D:\Dokumente\Programming\coding_challenges\C#\coding_challenges_csharp\challenge01\obj\Debug\netcoreapp2.2\challenge01.dll
+D:\Dokumente\Programming\coding_challenges\C#\coding_challenges_csharp\challenge01\obj\Debug\netcoreapp2.2\challenge01.pdb
